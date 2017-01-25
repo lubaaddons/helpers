@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Luba\\Helpers\\": "src/helpers/"
+            "Luba\\": "src/"
         }
     }
 }
