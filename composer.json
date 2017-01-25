@@ -11,6 +11,9 @@
         "psr-4": {
             "Luba\\": "src/"
         }
-    }
+    },
+    "classmap": [
+        "aliases"
+    ]
 }
 
